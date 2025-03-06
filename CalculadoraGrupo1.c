@@ -8,9 +8,18 @@ int suma(int a, int b)
 }
 
 // Función para restar
-
+int resta(int a, int b){
+    return a - b;
+}
 
 // Función para dividir
+float divisionn(int a, int b){
+    if (b == 0){
+        printf("Error; no existen divisiones entre cero")
+            return 1;
+    }
+    return (float)a / b;
+}
 
 
 // Función para multiplicar
