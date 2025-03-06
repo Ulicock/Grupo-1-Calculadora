@@ -2,7 +2,10 @@
 #include <stdlib.h>
 
 // Función para sumar
-
+int suma(int a, int b)
+{
+    return (a+b);
+}
 
 // Función para restar
 
