@@ -23,7 +23,9 @@ float divisionn(int a, int b){
 
 
 // Función para multiplicar
-
+int multiplicacion(int x, int y) {
+    return x * y;
+}
 
 // Función principal
 int main() {
