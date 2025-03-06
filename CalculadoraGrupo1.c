@@ -8,7 +8,10 @@ int suma(int a, int b)
 }
 
 // Función para restar
-
+int resta(int a, int b)
+{
+    return (a-b);
+}
 
 // Función para dividir
 
